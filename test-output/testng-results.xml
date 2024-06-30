@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-30T17:22:53 CEST" name="Suite" finished-at="2024-06-30T17:23:21 CEST" duration-ms="28314">
+    <groups>
+    </groups>
+    <test started-at="2024-06-30T17:22:53 CEST" name="Regression" finished-at="2024-06-30T17:23:21 CEST" duration-ms="28314">
+      <class name="test.ShoppingTest">
+        <test-method is-config="true" signature="AppiumTest()[pri:0, instance:test.ShoppingTest@4f80542f]" started-at="2024-06-30T17:22:53 CEST" name="AppiumTest" finished-at="2024-06-30T17:22:59 CEST" duration-ms="6591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest -->
+        <test-method signature="addProductsToCardHappy()[pri:0, instance:test.ShoppingTest@4f80542f]" started-at="2024-06-30T17:22:59 CEST" name="addProductsToCardHappy" finished-at="2024-06-30T17:23:21 CEST" duration-ms="21696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductsToCardHappy -->
+      </class> <!-- test.ShoppingTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite -->
+</testng-results>
